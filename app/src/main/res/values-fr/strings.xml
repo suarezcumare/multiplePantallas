@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myExampleMD</string>
+    <string name="btn_entrar">Entrer</string>
+    <string name="msj_bienvenido">Bienvenue</string>
+</resources>
